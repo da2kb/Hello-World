@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Hello World
 //
-//  Created by Sheyla Astete on 8/30/19.
+//  Created by Dina Ahmed on 8/30/19.
 //  Copyright © 2019 Mizzou. All rights reserved.
 //
 
